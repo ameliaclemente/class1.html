@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Amelia Clemente - Class 5</title>
+<h1> Amelia Clemente - CLASS 5</h1>
+</head>
+<body>
+Hardware devices
+<ol> 
+<li> Monitor </li>
+<li> Network </li>
+<li> Hard Disk </li>
+<li> Modem </li>
+</ol>
+Web languages
+<ul>
+<li> HTML </li>
+<li> Javascript </li>
+<li> PHP </li>
+<li> Java </li>
+<h2> Some Sites to Check Out</h2>
+<a href= "http://www.google.com"> 
+<br> Search the web with Google!
+</a>
+<br>
+<a href= "https://www.w3schools.com/html">
+<br> 
+Check out your online tutorials!
+</a>
+<br>
+<a href= "https://www.northampton.edu">
+<br>
+It's the Northampton Website!
+</a>
+<br>
+<a href= "http://www.youtube.com/">
+<br>
+What's on Youtube?
+</a>
+</body>
+</html>
